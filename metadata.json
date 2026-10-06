@@ -1,0 +1,6 @@
+{
+  "name": "New Raj Dhaba And Family Restaurant",
+  "description": "Authentic Highway Dhaba & Family Restaurant in Dahegaon (Rangari), Maharashtra. Fast WhatsApp ordering, live AI menu guide, tandoori specialties, and family dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
