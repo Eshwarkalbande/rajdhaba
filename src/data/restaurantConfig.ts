@@ -173,7 +173,7 @@ export const RESTAURANT_CONFIG = {
       description: 'Cubes of fresh malai paneer marinated in hung curd, Kashmiri spices, and char-grilled in a clay tandoor with bell peppers & mint chutney.',
       descriptionHindi: 'ताजा मलाई पनीर, गाढ़े दही और कश्मीरी मसालों में मेरिनेट कर तंदूर में सेका हुआ।',
       descriptionMarathi: 'ताज्या मलाई पनीरचे तुकडे, मसाले आणि चटणीसह मातीच्या तंदूरमध्ये भाजलेले.',
-      image: '/src/assets/images/specialty_paneer_tikka_1791300360286.jpg'
+      image: '/images/specialty_paneer_tikka_1791300360286.jpg'
     },
     {
       id: 'm2',
@@ -278,7 +278,7 @@ export const RESTAURANT_CONFIG = {
       description: 'Yellow arhar dal slow-cooked on iron tawa and tempered with pure desi ghee, cumin, whole red chillies, garlic & fresh cilantro.',
       descriptionHindi: 'देसी घी, लहसुन और साबुत लाल मिर्च के धुआंधार तड़के वाली असली ढाबा दाल।',
       descriptionMarathi: 'शुद्ध साजूक तूप, लसूण आणि लाल मिरच्यांचा खमंग तडका असलेली अस्सल ढाबा डाळ.',
-      image: '/src/assets/images/specialty_dal_tadka_1791300341169.jpg'
+      image: '/images/specialty_dal_tadka_1791300341169.jpg'
     },
     {
       id: 'm10',
@@ -371,7 +371,7 @@ export const RESTAURANT_CONFIG = {
       description: 'Our pride dish: tender chicken slow-cooked in sealed earthen clay pot with coarse hand-ground highway spices and rich red tarri gravy.',
       descriptionHindi: 'मिट्टी की हांडी में धीमी आंच पर पका देसी चिकन, गाढ़ी तरी और खड़े मसालों की महक।',
       descriptionMarathi: 'मातीच्या हांडीमध्ये शिजवलेले चिकन, गावरान मसाल्यांचा झणझणीत रस्सा.',
-      image: '/src/assets/images/specialty_chicken_handi_1791300382179.jpg'
+      image: '/images/specialty_chicken_handi_1791300382179.jpg'
     },
     {
       id: 'm17',

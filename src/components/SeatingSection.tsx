@@ -127,7 +127,7 @@ export const SeatingSection: React.FC<SeatingSectionProps> = ({ language }) => {
           <div className="lg:col-span-7 relative rounded-2xl overflow-hidden border border-stone-800 shadow-2xl group">
             <div className="aspect-[16/9] w-full overflow-hidden bg-stone-950">
               <img
-                src="/src/assets/images/ambiance_dhaba_lawn_1791300394256.jpg"
+                src="/images/ambiance_dhaba_lawn_1791300394256.jpg"
                 alt="New Raj Dhaba outdoor lawn seating illuminated with fairy lights"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"

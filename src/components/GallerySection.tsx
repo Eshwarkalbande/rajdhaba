@@ -49,7 +49,7 @@ export const GallerySection: React.FC<GallerySectionProps> = ({ language }) => {
   const galleryItems: GalleryItem[] = [
     {
       id: 'g1',
-      image: '/src/assets/images/hero_dhaba_feast_1791300327374.jpg',
+      image: '/images/hero_dhaba_feast_1791300327374.jpg',
       title: 'Grand Highway Dhaba Feast',
       titleHindi: 'असली ढाबा थाली व दावत',
       titleMarathi: 'अस्सल ढाबा शाही बेत',
@@ -60,7 +60,7 @@ export const GallerySection: React.FC<GallerySectionProps> = ({ language }) => {
     },
     {
       id: 'g2',
-      image: '/src/assets/images/specialty_dal_tadka_1791300341169.jpg',
+      image: '/images/specialty_dal_tadka_1791300341169.jpg',
       title: 'Double Desi Ghee Dal Tadka',
       titleHindi: 'डबल देसी घी दाल तड़का',
       titleMarathi: 'डबल साजूक तूप डाळ तडका',
@@ -71,7 +71,7 @@ export const GallerySection: React.FC<GallerySectionProps> = ({ language }) => {
     },
     {
       id: 'g3',
-      image: '/src/assets/images/specialty_paneer_tikka_1791300360286.jpg',
+      image: '/images/specialty_paneer_tikka_1791300360286.jpg',
       title: 'Clay Tandoor Charcoal Paneer Tikka',
       titleHindi: 'मिट्टी के तंदूर का पनीर टिक्का',
       titleMarathi: 'मातीच्या तंदूरमधील पनीर टिक्का',
@@ -82,7 +82,7 @@ export const GallerySection: React.FC<GallerySectionProps> = ({ language }) => {
     },
     {
       id: 'g4',
-      image: '/src/assets/images/specialty_chicken_handi_1791300382179.jpg',
+      image: '/images/specialty_chicken_handi_1791300382179.jpg',
       title: 'Desi Chicken Handi in Earthen Clay Pot',
       titleHindi: 'देसी चिकन हांडी (मिट्टी का बर्तन)',
       titleMarathi: 'देशी चिकन हांडी (मातीचे भांडे)',
@@ -93,7 +93,7 @@ export const GallerySection: React.FC<GallerySectionProps> = ({ language }) => {
     },
     {
       id: 'g5',
-      image: '/src/assets/images/ambiance_dhaba_lawn_1791300394256.jpg',
+      image: '/images/ambiance_dhaba_lawn_1791300394256.jpg',
       title: 'Night Terrace Garden & Fairy Lights',
       titleHindi: 'गार्डन व छत बैठक (रात का नजारा)',
       titleMarathi: 'ओपन गार्डन व गच्ची (रात्रीचा देखावा)',

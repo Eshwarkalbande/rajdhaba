@@ -216,7 +216,7 @@ export const Hero: React.FC<HeroProps> = ({
                 {/* Feast Image */}
                 <div className="relative aspect-[4/3] w-full overflow-hidden bg-stone-950">
                   <img
-                    src="/src/assets/images/hero_dhaba_feast_1791300327374.jpg"
+                    src="/images/hero_dhaba_feast_1791300327374.jpg"
                     alt="Authentic Highway Dhaba Feast at New Raj Dhaba with Dal Tadka and Tandoori Rotis"
                     referrerPolicy="no-referrer"
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
